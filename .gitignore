@@ -1,0 +1,25 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.vscode/
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Android Studio will place build artifacts here
+android/
+ios/
+macos/
+linux/
+web/
+
+.metadata
+*options.yaml
+*.lock
