@@ -27,8 +27,8 @@ flutter run
 
 ## Screenshots
 
-[Game Screenshot](https://example.com/screenshot1.png) <!-- Replace with your image URL -->
-[Game Screenshot](https://example.com/screenshot2.png) <!-- Replace with your image URL -->
+![Game Screenshot](screenshots/ss1.png) <!-- Replace with your image URL -->
+![Game Screenshot](screenshots/ss2.png) <!-- Replace with your image URL -->
 
 ## How to Play
 
@@ -50,7 +50,5 @@ Contributions are welcome! Please follow these steps:
 
 - [Flutter](https://flutter.dev) - The framework used for this project.
 - [2048 Game](https://2048-game.com) - Inspiration for the game.
-
----
 
 Happy gaming! 🎮
